@@ -1,1 +1,1 @@
-# book_programming-in-scala
+# Programming in Scala, 5th Edition
